@@ -1,0 +1,14 @@
+{
+    "nome" : " atividade3.2 " ,
+    "versão" : " 1.0.0 " ,
+    "descrição" : " " ,
+    "principal" : " index.js " ,
+    "scripts" : {
+      "test" : " echo \" Erro: nenhum teste especificado \" && exit 1 "
+    },
+    "autor" : " Taylon " ,
+    "licença" : " ISC " ,
+    "dependências" : {
+      "expresso" : " ^4.18.2 "
+    }
+  }
