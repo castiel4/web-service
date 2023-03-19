@@ -1,0 +1,11 @@
+{
+    "nome" : " servidor json " ,
+    "versão" : " 1.0.0 " ,
+    "descrição" : " " ,
+    "principal" : " index.js " ,
+    "scripts" : {
+      "test" : " echo \" Erro: nenhum teste especificado \" && exit 1 "
+    },
+    "autor" : " " ,
+    "licença" : " ISC "
+  }
